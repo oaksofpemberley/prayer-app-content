@@ -12,7 +12,23 @@
       "keyVerse": "If I rise on the wings of the dawn, if I settle on the far side of the sea, even there your hand will guide me, your right hand will hold me fast.",
       "keyVerseRef": "Psalm 139:9-10 (NIV)",
       "reflectionPrompt": "The monarch butterfly was born with a destination it had never seen and a path it had never walked, yet it arrived. What calling or direction has God placed inside you that requires trusting the internal compass rather than waiting for the visible map?",
-      "accentColor": "#C05A0F"
+      "accentColor": "#C05A0F",
+      "icon": "butterfly"
+    },
+    {
+      "id": "hummingbird",
+      "creature": "The Hummingbird",
+      "subtitle": "The Creator built a life that depends on Him one morning at a time",
+      "funFact": "A hummingbird's heart can beat over 1,200 times a minute and it must feed every 10 to 15 minutes throughout the day just to survive, yet at night it lets that same heart rate collapse to almost nothing, entering a state so close to death that it must tremble itself back to life every morning.",
+      "storyText": "A hummingbird's wings beat between 50 and 80 times a second in a tight figure eight pattern, the only motion in the bird world that allows a creature to hover in place, fly straight up and down, and even fly backwards. Powering that motion takes a heart that can race past 1,200 beats a minute, the fastest heartbeat of any bird on earth, alongside a breathing rate of roughly 250 breaths a minute even while at rest.\n\nThat kind of engine cannot run on reserves. A hummingbird consumes up to twice its own body weight in nectar every single day, and because its metabolism burns so hot, it cannot store more than a few hours of fuel at a time. From the moment the sun rises, it must find food every 10 to 15 minutes or its reserves run out. There is no stockpiling season, no pantry to draw from later. Today's provision has to come today.\n\nWhen the sun goes down and the flowers close, a hummingbird would starve before morning at its normal pace. So God built in a nightly rescue. Its heart rate collapses from over a thousand beats a minute down to as few as 50, and its body temperature can drop more than 30 degrees. It enters torpor, a controlled near-hibernation, conserving just enough life to still be breathing at first light. Some mornings it takes nearly an hour of trembling and warming before it is strong enough to fly at all.\n\nAnd yet this same fragile creature holds a map in its mind of every flower in its territory, how much nectar each one held, and how long each needs to refill, timing its rounds so it arrives at a bloom at the precise moment it has replenished. Some species take that same relentless drive and use it to cross the Gulf of Mexico nonstop, roughly 500 miles over open water, on a body that weighs less than a nickel.\n\nGod did not give the hummingbird the ability to store up abundance. He gave it the ability to be sustained, one feeding, one morning, at a time. That is a fragile way to live, and it is also precisely how God designed this creature to need Him without exception.",
+      "godAttribute": "Providing and Present",
+      "wonder": "The hummingbird cannot stockpile enough nectar to coast through tomorrow. It was built to run out, every single night, and to depend on being renewed every single morning. That is not a design flaw. It is a portrait of a God whose provision does not come once and run dry, but arrives new every day for those who depend on Him.",
+      "scriptureRef": "Lamentations 3:22-23",
+      "keyVerse": "Because of the Lord's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.",
+      "keyVerseRef": "Lamentations 3:22-23 (NIV)",
+      "reflectionPrompt": "The hummingbird was never designed to store up enough for tomorrow. It was designed to be renewed one morning at a time. Where are you trying to stockpile enough to feel secure, instead of trusting God for what today actually requires?",
+      "accentColor": "#C0264A",
+      "icon": "bird"
     }
   ]
 }
