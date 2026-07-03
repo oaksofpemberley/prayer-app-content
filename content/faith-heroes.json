@@ -8,7 +8,8 @@
       "birthplace": "Kingston upon Hull, England",
       "contribution": "A member of the British Parliament who underwent a deep evangelical conversion in his mid-twenties, William Wilberforce spent the next twenty-six years fighting to abolish the British slave trade. He introduced an abolition bill to Parliament almost every year, facing ridicule, exhaustion, and repeated defeat, all while battling chronic illness. In 1807 the Slave Trade Act finally passed, ending the trade across the British Empire. He continued pressing for the full abolition of slavery itself, and the Slavery Abolition Act passed through Parliament just three days before his death in 1833. He also helped found the Society for the Prevention of Cruelty to Animals and supported prison reform, education for the poor, and missionary work throughout his life.",
       "quote": "You may choose to look the other way, but you can never say again that you did not know.",
-      "accentColor": "#3E5C76"
+      "accentColor": "#3E5C76",
+      "imageUri": "https://cdn.jsdelivr.net/gh/oaksofpemberley/prayer-app-content@main/images/william-wilberforce.png"
     },
     {
       "id": "amy-carmichael",
@@ -18,7 +19,8 @@
       "birthplace": "Millisle, County Down, Ireland",
       "contribution": "Amy Carmichael sailed to India in 1895 and never returned home, serving as a missionary for fifty five years without a single furlough. She became known for rescuing children, mostly young girls, from temple prostitution and forced religious servitude, often at great personal risk. In 1901 she founded the Dohnavur Fellowship, which grew into a sanctuary and family for over a thousand rescued children over the decades that followed. After a serious fall left her largely bedridden for the last twenty years of her life, she continued to lead the Fellowship and wrote more than thirty five books of prayers, poetry, and reflections from her room. Her writings shaped generations of missionaries, including Jim Elliot and Elisabeth Elliot.",
       "quote": "You can give without loving, but you cannot love without giving.",
-      "accentColor": "#C97064"
+      "accentColor": "#C97064",
+      "imageUri": "https://cdn.jsdelivr.net/gh/oaksofpemberley/prayer-app-content@main/images/amy-carmichael.png"
     }
   ]
 }

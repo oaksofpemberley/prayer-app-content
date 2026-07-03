@@ -12,7 +12,8 @@
       "keyVerse": "The house of Israel called its name Manna, and it was like coriander seed, white, and its taste was like wafers with honey.",
       "keyVerseRef": "Exodus 16:31 (WEB)",
       "reflectionPrompt": "What are you tempted to stockpile out of fear instead of trusting God for today? What would it look like to ask Him for just enough, one day at a time?",
-      "accentColor": "#B8860B"
+      "accentColor": "#B8860B",
+      "imageUri": "https://cdn.jsdelivr.net/gh/oaksofpemberley/prayer-app-content@main/images/manna-wilderness.png"
     },
     {
       "id": "prodigal-son",
@@ -26,7 +27,8 @@
       "keyVerse": "But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
       "keyVerseRef": "Luke 15:20 (WEB)",
       "reflectionPrompt": "Is there a way you have felt too far gone to come home to God? What would it mean to believe He is already watching the road for you?",
-      "accentColor": "#A0522D"
+      "accentColor": "#A0522D",
+      "imageUri": "https://cdn.jsdelivr.net/gh/oaksofpemberley/prayer-app-content@main/images/prodigal-son.png"
     }
   ]
 }
