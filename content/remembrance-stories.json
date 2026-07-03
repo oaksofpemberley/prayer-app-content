@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": "manna-wilderness",
+      "title": "Manna in the Wilderness",
+      "subtitle": "God provides exactly enough, one day at a time",
+      "scriptureRef": "Exodus 16:11-21",
+      "storyText": "The Israelites were six weeks out of Egypt, deep in a wilderness with no food, and they began grumbling that they would rather have died as slaves with full stomachs than starve as free people. God heard their complaint and answered it every single morning. A fine, flake like substance appeared on the ground with the dew, and when the people saw it they asked one another, what is it. Moses told them, this is the bread Yahweh has given you to eat.\n\nThe instructions were strange and specific. Each family was to gather only as much as they needed for that day. Those who tried to gather extra and save it overnight found it bred worms and stank by morning, except on the sixth day, when a double portion could be kept for the Sabbath and it stayed fresh. For forty years, until they crossed into the Promised Land, the manna never stopped falling. God did not give them a warehouse of food to manage on their own. He gave them a daily reason to depend on Him.",
+      "godAttribute": "Daily Provider",
+      "nameOfGod": "El Shaddai",
+      "nameOfGodMeaning": "God Almighty, the All Sufficient One",
+      "keyVerse": "The house of Israel called its name Manna, and it was like coriander seed, white, and its taste was like wafers with honey.",
+      "keyVerseRef": "Exodus 16:31 (WEB)",
+      "reflectionPrompt": "What are you tempted to stockpile out of fear instead of trusting God for today? What would it look like to ask Him for just enough, one day at a time?",
+      "accentColor": "#B8860B"
+    },
+    {
+      "id": "prodigal-son",
+      "title": "The Prodigal Son",
+      "subtitle": "No matter how far you wander, the Father is watching for you",
+      "scriptureRef": "Luke 15:11-32",
+      "storyText": "A younger son asked his father for his share of the inheritance early, essentially wishing him dead, and left for a distant country where he wasted everything on reckless living. When a famine hit and his money ran out, he ended up feeding pigs and longing to eat their food, with no one giving him anything. In that moment of complete ruin, he came to his senses and decided to go home, rehearsing an apology, hoping only to be hired on as a servant.\n\nHe never got the chance to finish his speech. While he was still a long way off, his father saw him and was moved with compassion. The father did not wait at the door with arms crossed. He ran. He fell on his son's neck and kissed him, called for the best robe, a ring, sandals, and a fattened calf, and declared, this son of mine was dead and is alive again, he was lost and is found. The father had been watching the road the whole time.",
+      "godAttribute": "Loving Father",
+      "nameOfGod": "Abba",
+      "nameOfGodMeaning": "Father, an intimate and personal name for God",
+      "keyVerse": "But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+      "keyVerseRef": "Luke 15:20 (WEB)",
+      "reflectionPrompt": "Is there a way you have felt too far gone to come home to God? What would it mean to believe He is already watching the road for you?",
+      "accentColor": "#A0522D"
+    }
+  ]
+}
